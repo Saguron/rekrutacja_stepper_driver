@@ -1,0 +1,5 @@
+../Core/Src/app_freertos.c:96:6:MX_FREERTOS_Init	8	static
+../Core/Src/app_freertos.c:147:6:StartDefaultTask	16	static
+../Core/Src/app_freertos.c:165:6:StartEncoderTask	16	static
+../Core/Src/app_freertos.c:183:6:StartStepperRegTask	16	static
+../Core/Src/app_freertos.c:201:6:StartFeedbackTask	16	static
